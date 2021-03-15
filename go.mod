@@ -1,6 +1,6 @@
-module golang.org/x/crypto
+module github.com/liyuanhang/crypto
 
-go 1.11
+go 1.13
 
 require (
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
